@@ -1,0 +1,11 @@
+package:
+    name:           yii2-asset-ru-tld
+    namespace:      rutld\assets\rutld
+    title:          Yii 2 asset with RU-TLD logos and so on
+    type:           yii2-extension
+    keywords:       ru-tld, asset, extension, yii2
+    year:           2015
+
+require:
+    ru-tld/hidev-config:        "*"
+    hiqdev/hidev-config-php:    "*"

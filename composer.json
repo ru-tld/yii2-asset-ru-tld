@@ -1,0 +1,35 @@
+{
+    "name": "ru-tld/yii2-asset-ru-tld",
+    "type": "yii2-extension",
+    "description": "Yii 2 asset with RU-TLD logos and so on",
+    "keywords": [
+        "ru-tld",
+        "asset",
+        "extension",
+        "yii2"
+    ],
+    "homepage": "https://github.com/ru-tld/yii2-asset-ru-tld",
+    "license": "No license",
+    "support": {
+        "email": "support@ru-tld.ru",
+        "source": "https://github.com/ru-tld/yii2-asset-ru-tld",
+        "issues": "https://github.com/ru-tld/yii2-asset-ru-tld/issues",
+        "wiki": "https://github.com/ru-tld/yii2-asset-ru-tld/wiki",
+        "forum": "https://ru-tld.ru/"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "https://hipanel.com/"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "rutld\\assets\\rutld\\": "src"
+        }
+    }
+}
