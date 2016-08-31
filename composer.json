@@ -20,12 +20,17 @@
     "authors": [
         {
             "name": "Andrii Vasyliev",
+            "role": "Project lead",
             "email": "sol@hiqdev.com",
-            "homepage": "https://hipanel.com/"
+            "homepage": "http://hipanel.com/"
         }
     ],
     "require": {
         "yiisoft/yii2": "~2.0"
+    },
+    "require-dev": {
+        "hiqdev/hidev-php": "<2.0 || dev-master",
+        "ru-tld/hidev-ru-tld": "<2.0 || dev-master"
     },
     "autoload": {
         "psr-4": {

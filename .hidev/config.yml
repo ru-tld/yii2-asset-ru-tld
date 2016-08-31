@@ -1,11 +1,13 @@
 package:
-    name:           yii2-asset-ru-tld
-    namespace:      rutld\assets\rutld
-    title:          Yii 2 asset with RU-TLD logos and so on
     type:           yii2-extension
+    name:           yii2-asset-ru-tld
+    title:          Yii 2 asset with RU-TLD logos and so on
     keywords:       ru-tld, asset, extension, yii2
-    year:           2015
+    namespace:      rutld\assets\rutld
+    description:    |
+        [RU-TLD](https://ru-tld.ru) is a domain registrator.
 
-require:
-    ru-tld/hidev-config:        "*"
-    hiqdev/hidev-config-php:    "*"
+        This package provides assets shareable between different RU-TLD projects:
+
+        - logos and css bundled with yii2 asset bundle
+        - config settings
