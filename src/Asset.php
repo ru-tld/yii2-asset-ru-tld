@@ -11,7 +11,7 @@
 
 namespace rutld\assets\rutld;
 
-class RuTldAsset extends \yii\web\AssetBundle
+class Asset extends \yii\web\AssetBundle
 {
     public $sourcePath = '@rutld/assets/rutld/assets';
 
