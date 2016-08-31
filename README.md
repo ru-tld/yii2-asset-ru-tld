@@ -1,5 +1,7 @@
-Yii 2 asset with RU-TLD logos and so on
-=======================================
+RU-TLD assets
+=============
+
+**Yii 2 asset with RU-TLD logos and so on**
 
 [![Latest Stable Version](https://poser.pugx.org/ru-tld/yii2-asset-ru-tld/v/stable)](https://packagist.org/packages/ru-tld/yii2-asset-ru-tld)
 [![Total Downloads](https://poser.pugx.org/ru-tld/yii2-asset-ru-tld/downloads)](https://packagist.org/packages/ru-tld/yii2-asset-ru-tld)

@@ -2,6 +2,7 @@ package:
     type:           yii2-extension
     name:           yii2-asset-ru-tld
     title:          Yii 2 asset with RU-TLD logos and so on
+    headline:       RU-TLD assets
     keywords:       ru-tld, asset, extension, yii2
     namespace:      rutld\assets\rutld
     description:    |

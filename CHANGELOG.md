@@ -1,9 +1,8 @@
-ru-tld/yii2-asset-ru-tld changelog
-----------------------------------
+ru-tld/yii2-asset-ru-tld
+------------------------
 
-## Under development
+## [Under development]
 
 - Added basics
 
-## Development started 2015-08-27
-
+## [Development started] - 2015-08-27
