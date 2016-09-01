@@ -36,5 +36,16 @@
         "psr-4": {
             "rutld\\assets\\rutld\\": "src"
         }
-    }
+    },
+    "extra": {
+        "config-plugin": {
+            "params": "src/config/params.php"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
 }
