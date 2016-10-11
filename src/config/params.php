@@ -14,6 +14,7 @@ return [
     'organizationUrl'   => 'https://ru-tld.ru/',
     'supportEmail'      => 'support@ru-tld.ru',
     'adminEmail'        => 'support@ru-tld.ru',
+    'abuseEmail'        => 'abuse@ru-tld.ru',
 
     'twitter_link'      => 'https://twitter.com/rutld',
     'facebook_link'     => 'https://www.facebook.com/groups/230254030432488/',
