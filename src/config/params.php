@@ -19,7 +19,7 @@ return [
     'abuseEmail'        => 'abuse@ru-tld.ru',
     'salesEmail'        => 'sale@ru-tld.ru',
     'logoImage'         => '@rutld/assets/rutld/assets/img/alt-logo.png',
-    'logoOptions'       => ['style' => 'width: 100px;'],
+    'logoImageOptions'  => ['style' => 'width: 100px;'],
 
     'socialLinks'       => [
         'email'     => 'mailto:' . $supportEmail,
