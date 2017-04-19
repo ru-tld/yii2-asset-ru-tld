@@ -12,16 +12,20 @@
 $supportEmail = 'support@ru-tld.ru';
 
 return [
-    'organizationName'  => 'RU-TLD',
-    'organizationUrl'   => 'https://ru-tld.ru/',
+    'favicon.ico'       => '@rutld/assets/rutld/assets/img/favicon.ico',
+
+    'organization.name' => 'RU-TLD',
+    'organization.url'  => 'https://ru-tld.ru/',
+
     'supportEmail'      => $supportEmail,
     'adminEmail'        => $supportEmail,
     'abuseEmail'        => 'abuse@ru-tld.ru',
     'salesEmail'        => 'sale@ru-tld.ru',
-    'logoImage'         => '@rutld/assets/rutld/assets/img/alt-logo.png',
-    'logoImageOptions'  => ['style' => 'width: 100px;'],
 
-    'socialLinks'       => [
+    'logo.image'         => '@rutld/assets/rutld/assets/img/alt-logo.png',
+    'logo.imageOptions'  => ['style' => 'width: 100px;'],
+
+    'socialLinks.links'  => [
         'email'     => 'mailto:' . $supportEmail,
         'twitter'   => 'https://twitter.com/rutld',
         'facebook'  => 'https://www.facebook.com/groups/230254030432488/',
