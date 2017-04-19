@@ -22,8 +22,10 @@ return [
     'abuseEmail'        => 'abuse@ru-tld.ru',
     'salesEmail'        => 'sale@ru-tld.ru',
 
-    'logo.image'         => '@rutld/assets/rutld/assets/img/alt-logo.png',
-    'logo.imageOptions'  => ['style' => 'width: 100px;'],
+    'logo.image'                => '@rutld/assets/rutld/assets/img/alt-logo.png',
+    'logo.imageOptions'         => ['style' => 'width: 100px;'],
+    'logo.smallImage'           => '@rutld/assets/rutld/assets/img/alt-logo.png',
+    'logo.smallImageOptions'    => ['style' => 'width: 50px'],
 
     'socialLinks.links'  => [
         'email'     => 'mailto:' . $supportEmail,
