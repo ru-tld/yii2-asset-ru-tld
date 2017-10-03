@@ -14,8 +14,8 @@ $supportEmail = 'support@ru-tld.ru';
 return [
     'favicon.ico'       => '@rutld/assets/rutld/assets/img/favicon.ico',
 
-    'organization.name' => 'RU-TLD',
-    'organization.url'  => 'https://ru-tld.ru/',
+    'organization.name' => 'QQ.domains',
+    'organization.url'  => 'https://qq.domains/',
 
     'supportEmail'      => $supportEmail,
     'adminEmail'        => $supportEmail,
