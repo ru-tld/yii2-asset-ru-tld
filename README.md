@@ -7,7 +7,6 @@
 [![Build Status](https://img.shields.io/travis/ru-tld/yii2-asset-ru-tld.svg)](https://travis-ci.org/ru-tld/yii2-asset-ru-tld)
 [![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/ru-tld/yii2-asset-ru-tld.svg)](https://scrutinizer-ci.com/g/ru-tld/yii2-asset-ru-tld/)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/ru-tld/yii2-asset-ru-tld.svg)](https://scrutinizer-ci.com/g/ru-tld/yii2-asset-ru-tld/)
-[![Dependency Status](https://www.versioneye.com/php/ru-tld:yii2-asset-ru-tld/dev-master/badge.svg)](https://www.versioneye.com/php/ru-tld:yii2-asset-ru-tld/dev-master)
 
 [RU-TLD](https://ru-tld.ru) is a domain registrator.
 
@@ -36,7 +35,7 @@ to the require section of your composer.json.
 
 ## License
 
-This project is released under the terms of the No license [license](LICENSE).
-Read more [here](http://choosealicense.com/licenses/no-license).
+This project is released under the terms of the proprietary [license](LICENSE).
+Read more [here](https://en.wikipedia.org/wiki/Proprietary_software).
 
-Copyright © 2015-2017, RU-TLD (https://ru-tld.ru/)
+Copyright © 2015-2018, RU-TLD (https://ru-tld.ru/)

@@ -5,6 +5,7 @@ package:
     headline:       RU-TLD assets
     keywords:       ru-tld, asset, extension, yii2
     namespace:      rutld\assets\rutld
+    license:        proprietary
     description:    |
         [RU-TLD](https://ru-tld.ru) is a domain registrator.
 
