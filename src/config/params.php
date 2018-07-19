@@ -9,7 +9,7 @@
  */
 
 
-$supportEmail = 'support@ru-tld.ru';
+$supportEmail = 'support@qq.domains';
 
 return [
     'favicon.ico'       => '@rutld/assets/rutld/assets/img/favicon.ico',
