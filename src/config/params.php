@@ -22,6 +22,8 @@ return [
     'abuseEmail'        => 'abuse@ru-tld.ru',
     'salesEmail'        => 'sale@ru-tld.ru',
 
+    'module.server.redirect.url' => "https://ru-tld.ru/{language}/virtual-servers/",
+
     'logo.image'                => '@rutld/assets/rutld/assets/img/alt-logo.png',
     'logo.imageOptions'         => ['style' => 'width: 100px;'],
     'logo.smallImage'           => '@rutld/assets/rutld/assets/img/alt-logo.png',
