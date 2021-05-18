@@ -34,4 +34,9 @@ return [
         'twitter'   => 'https://twitter.com/rutld',
         'facebook'  => 'https://www.facebook.com/groups/230254030432488/',
     ],
+
+    'module.mailing.swiftmailer.fixurl.hipanel' => [
+        '#(https?)://old.qq.domains/panel/#ui'                              => '$1://cp.qq.domains/panel',
+        '#(https?)://old.qq.domains/#ui'                                    => '$1://qq.domains/',
+    ],
 ];
